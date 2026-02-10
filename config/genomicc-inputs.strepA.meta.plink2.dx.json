@@ -1,0 +1,830 @@
+{
+  "stage-common.genotypes": {
+    "___": {
+      "chr": "all",
+      "bed": {
+        "$dnanexus_link": {
+          "id": "file-J5yV5yQJ90Kvp8jPJ8VfYjKq",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      },
+      "bim": {
+        "$dnanexus_link": {
+          "id": "file-J5yV5yQJ90KvYbVj66GJq3Z7",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      },
+      "fam": {
+        "$dnanexus_link": {
+          "id": "file-J5yV5yQJ90KXXZ2q6FGzgYjv",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      }
+    }
+  },
+  "stage-common.phenotypes": ["SEVERE_GROUP_A_STREPTOCOCCAL_INFECTION"],
+  "stage-common.covariates_file": {
+    "$dnanexus_link": {
+      "id": "file-J5yVZBjJX0fP2VJ2jqqkQp2b",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  },
+  "stage-common.groupby": ["SUPERPOPULATION"],
+  "stage-common.meta_exclude": ["ADMIXED"],
+  "stage-common.finemap": "false",
+  "stage-common.imputed_genotypes___dxfiles": [{
+    "$dnanexus_link": {
+      "id": "file-J5yvPvQJVp6f96JZZpfQ9KQ5",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5yvPvQJVp6yVfP6GK58Bf38",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5yvPvQJVp6k0P88fQ4fjPkB",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5yxyK8J3JbjV3qYyFKkkb9z",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5yxyK8J3JbfZ7qzPQ934PxY",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5yxyK8J3JbyKvyBbp1y52BQ",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5yv19QJgYJZ62J6BQYZ7Q5q",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5yv19QJgYJq0GQ48XPxZF1z",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5yv19QJgYJQb4711g586q39",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5yqj7QJYKbGF368YJV7vb04",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5yqj7QJYKb3pj8Q3yfg0VJv",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5yqj7QJYKb99fQG42GXvX89",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5ypq2jJX00qY04GK8J0q1z3",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5ypq2jJX00Y8jvxgBV8Z191",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5ypq2jJX00bz84Gz3ZZpX2K",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5ypx50JzjG2V6yjY6G5Q49f",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5ypx50JzjGByk4qz3kbVvp4",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5ypx50JzjG68vq24Qj09B1z",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5ykVqjJ67J6y1yf9jVP85xB",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5ykVqjJ67J5kq9b3FZx1Y6P",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5ykVqjJ67J6ZffFBF84JB89",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5ykP80JK50J3gQJ2qx7k806",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5ykP80JK504ZFkzgFJzbv63",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5ykP88JK50Byk4qz3kbKJv6",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5yg9VjJ7FQG83J7vF6pV0pz",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5yg9VjJ7FQFF3Xy9qX77V3p",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5yg9VjJ7FQ1PJkg3xzGQQ3y",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5yjQyQJp13zjVkQQFYZ7fxK",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5yjQyQJp13XV6yjY6G570pj",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5yjQyQJp13YYF0JZqbzJ9vF",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5yjY2QJX2F6ZffFBF849Z91",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5yjY2QJX2FByk4qz3kbK76Q",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5yjY2QJX2F1FXj6q57057xk",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5yj5P0JQF78PJxQqk7V9XFQ",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5yj5P0JQF734KP11P9q18p8",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5yj5P0JQF75f0y0YGGpv589",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5yfkb0JbZZ3YF0JZqbz94yg",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5yfkb0JbZZJ42K0JYj16xx1",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5yfkb0JbZZ7vPZPXPkyqpjY",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5ybp4jJVp7JZ9bKZ93x16K5",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5ybp4jJVp70yYQ1J4FJKZzQ",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5ybp4jJVp7P2VJ2jqqp3Qz1",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5yb418Jkkjv7Kk433QK3g6G",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5yb418JkkjVFXj6q57PV6GZ",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5yb418JkkjZzf172fQ2g5gf",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5ybGP8JgYbzz6kPfvgx17KZ",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5ybGP8JgYbv18x2z0FK5p8z",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5ybGP8JgYbp38pK0kfVqYjj",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5yZQ7QJ6KfVyF4kjB6p29b4",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5yZQ7QJ6Kfqg81y10BgBkZk",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5yZQ7QJ6Kfpyk4qz3kZvjy7",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5ybGXjJPYPF57P1qyx8qXKP",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5ybGXjJPYP30f5Kq334kqV1",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5ybGXjJPYPFY04GK8J0BYpV",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5yYj1jJJkK2VfP00zy0v356",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5yYj1jJJkKG72BVGqgk2yY5",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5yYj1jJJkKF57P1qyx8GVbf",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5yZG48J54ZBgBpKKzzBzgv5",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5yZG48J54ZK21bp24yY6pP6",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5yZG48J54Z9KF93XpKBkk17",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5yY4J0J8Vy7fV04bXzfx7YQ",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5yY4J0J8VyKKvyBbp1vQzjQ",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5yY4J0J8Vy3kqP09yvj8k89",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5yXyQjJ8qfv2P8KZypZ336K",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5yXyQjJ8qfXVfP00zy0b2Kz",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5yXyQjJ8qfvj1B53p3J55Fy",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }],
+  "stage-common.gwas_software": "plink2",
+  "stage-common.loco_pca": "true",
+  "stage-common.imputed_genotypes": {
+    "___": [{
+      "chr": "1",
+      "pgen": {
+        "$dnanexus_link": {
+          "id": "file-J5yvPvQJVp6f96JZZpfQ9KQ5",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      },
+      "psam": {
+        "$dnanexus_link": {
+          "id": "file-J5yvPvQJVp6yVfP6GK58Bf38",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      },
+      "pvar": {
+        "$dnanexus_link": {
+          "id": "file-J5yvPvQJVp6k0P88fQ4fjPkB",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      }
+    }, {
+      "chr": "2",
+      "pgen": {
+        "$dnanexus_link": {
+          "id": "file-J5yxyK8J3JbjV3qYyFKkkb9z",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      },
+      "psam": {
+        "$dnanexus_link": {
+          "id": "file-J5yxyK8J3JbfZ7qzPQ934PxY",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      },
+      "pvar": {
+        "$dnanexus_link": {
+          "id": "file-J5yxyK8J3JbyKvyBbp1y52BQ",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      }
+    }, {
+      "chr": "3",
+      "pgen": {
+        "$dnanexus_link": {
+          "id": "file-J5yv19QJgYJZ62J6BQYZ7Q5q",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      },
+      "psam": {
+        "$dnanexus_link": {
+          "id": "file-J5yv19QJgYJq0GQ48XPxZF1z",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      },
+      "pvar": {
+        "$dnanexus_link": {
+          "id": "file-J5yv19QJgYJQb4711g586q39",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      }
+    }, {
+      "chr": "4",
+      "pgen": {
+        "$dnanexus_link": {
+          "id": "file-J5yqj7QJYKbGF368YJV7vb04",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      },
+      "psam": {
+        "$dnanexus_link": {
+          "id": "file-J5yqj7QJYKb3pj8Q3yfg0VJv",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      },
+      "pvar": {
+        "$dnanexus_link": {
+          "id": "file-J5yqj7QJYKb99fQG42GXvX89",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      }
+    }, {
+      "chr": "5",
+      "pgen": {
+        "$dnanexus_link": {
+          "id": "file-J5ypq2jJX00qY04GK8J0q1z3",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      },
+      "psam": {
+        "$dnanexus_link": {
+          "id": "file-J5ypq2jJX00Y8jvxgBV8Z191",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      },
+      "pvar": {
+        "$dnanexus_link": {
+          "id": "file-J5ypq2jJX00bz84Gz3ZZpX2K",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      }
+    }, {
+      "chr": "6",
+      "pgen": {
+        "$dnanexus_link": {
+          "id": "file-J5ypx50JzjG2V6yjY6G5Q49f",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      },
+      "psam": {
+        "$dnanexus_link": {
+          "id": "file-J5ypx50JzjGByk4qz3kbVvp4",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      },
+      "pvar": {
+        "$dnanexus_link": {
+          "id": "file-J5ypx50JzjG68vq24Qj09B1z",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      }
+    }, {
+      "chr": "7",
+      "pgen": {
+        "$dnanexus_link": {
+          "id": "file-J5ykVqjJ67J6y1yf9jVP85xB",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      },
+      "psam": {
+        "$dnanexus_link": {
+          "id": "file-J5ykVqjJ67J5kq9b3FZx1Y6P",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      },
+      "pvar": {
+        "$dnanexus_link": {
+          "id": "file-J5ykVqjJ67J6ZffFBF84JB89",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      }
+    }, {
+      "chr": "8",
+      "pgen": {
+        "$dnanexus_link": {
+          "id": "file-J5ykP80JK50J3gQJ2qx7k806",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      },
+      "psam": {
+        "$dnanexus_link": {
+          "id": "file-J5ykP80JK504ZFkzgFJzbv63",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      },
+      "pvar": {
+        "$dnanexus_link": {
+          "id": "file-J5ykP88JK50Byk4qz3kbKJv6",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      }
+    }, {
+      "chr": "9",
+      "pgen": {
+        "$dnanexus_link": {
+          "id": "file-J5yg9VjJ7FQG83J7vF6pV0pz",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      },
+      "psam": {
+        "$dnanexus_link": {
+          "id": "file-J5yg9VjJ7FQFF3Xy9qX77V3p",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      },
+      "pvar": {
+        "$dnanexus_link": {
+          "id": "file-J5yg9VjJ7FQ1PJkg3xzGQQ3y",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      }
+    }, {
+      "chr": "10",
+      "pgen": {
+        "$dnanexus_link": {
+          "id": "file-J5yjQyQJp13zjVkQQFYZ7fxK",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      },
+      "psam": {
+        "$dnanexus_link": {
+          "id": "file-J5yjQyQJp13XV6yjY6G570pj",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      },
+      "pvar": {
+        "$dnanexus_link": {
+          "id": "file-J5yjQyQJp13YYF0JZqbzJ9vF",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      }
+    }, {
+      "chr": "11",
+      "pgen": {
+        "$dnanexus_link": {
+          "id": "file-J5yjY2QJX2F6ZffFBF849Z91",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      },
+      "psam": {
+        "$dnanexus_link": {
+          "id": "file-J5yjY2QJX2FByk4qz3kbK76Q",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      },
+      "pvar": {
+        "$dnanexus_link": {
+          "id": "file-J5yjY2QJX2F1FXj6q57057xk",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      }
+    }, {
+      "chr": "12",
+      "pgen": {
+        "$dnanexus_link": {
+          "id": "file-J5yj5P0JQF78PJxQqk7V9XFQ",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      },
+      "psam": {
+        "$dnanexus_link": {
+          "id": "file-J5yj5P0JQF734KP11P9q18p8",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      },
+      "pvar": {
+        "$dnanexus_link": {
+          "id": "file-J5yj5P0JQF75f0y0YGGpv589",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      }
+    }, {
+      "chr": "13",
+      "pgen": {
+        "$dnanexus_link": {
+          "id": "file-J5yfkb0JbZZ3YF0JZqbz94yg",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      },
+      "psam": {
+        "$dnanexus_link": {
+          "id": "file-J5yfkb0JbZZJ42K0JYj16xx1",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      },
+      "pvar": {
+        "$dnanexus_link": {
+          "id": "file-J5yfkb0JbZZ7vPZPXPkyqpjY",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      }
+    }, {
+      "chr": "14",
+      "pgen": {
+        "$dnanexus_link": {
+          "id": "file-J5ybp4jJVp7JZ9bKZ93x16K5",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      },
+      "psam": {
+        "$dnanexus_link": {
+          "id": "file-J5ybp4jJVp70yYQ1J4FJKZzQ",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      },
+      "pvar": {
+        "$dnanexus_link": {
+          "id": "file-J5ybp4jJVp7P2VJ2jqqp3Qz1",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      }
+    }, {
+      "chr": "15",
+      "pgen": {
+        "$dnanexus_link": {
+          "id": "file-J5yb418Jkkjv7Kk433QK3g6G",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      },
+      "psam": {
+        "$dnanexus_link": {
+          "id": "file-J5yb418JkkjVFXj6q57PV6GZ",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      },
+      "pvar": {
+        "$dnanexus_link": {
+          "id": "file-J5yb418JkkjZzf172fQ2g5gf",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      }
+    }, {
+      "chr": "16",
+      "pgen": {
+        "$dnanexus_link": {
+          "id": "file-J5ybGP8JgYbzz6kPfvgx17KZ",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      },
+      "psam": {
+        "$dnanexus_link": {
+          "id": "file-J5ybGP8JgYbv18x2z0FK5p8z",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      },
+      "pvar": {
+        "$dnanexus_link": {
+          "id": "file-J5ybGP8JgYbp38pK0kfVqYjj",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      }
+    }, {
+      "chr": "17",
+      "pgen": {
+        "$dnanexus_link": {
+          "id": "file-J5yZQ7QJ6KfVyF4kjB6p29b4",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      },
+      "psam": {
+        "$dnanexus_link": {
+          "id": "file-J5yZQ7QJ6Kfqg81y10BgBkZk",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      },
+      "pvar": {
+        "$dnanexus_link": {
+          "id": "file-J5yZQ7QJ6Kfpyk4qz3kZvjy7",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      }
+    }, {
+      "chr": "18",
+      "pgen": {
+        "$dnanexus_link": {
+          "id": "file-J5ybGXjJPYPF57P1qyx8qXKP",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      },
+      "psam": {
+        "$dnanexus_link": {
+          "id": "file-J5ybGXjJPYP30f5Kq334kqV1",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      },
+      "pvar": {
+        "$dnanexus_link": {
+          "id": "file-J5ybGXjJPYPFY04GK8J0BYpV",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      }
+    }, {
+      "chr": "19",
+      "pgen": {
+        "$dnanexus_link": {
+          "id": "file-J5yYj1jJJkK2VfP00zy0v356",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      },
+      "psam": {
+        "$dnanexus_link": {
+          "id": "file-J5yYj1jJJkKG72BVGqgk2yY5",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      },
+      "pvar": {
+        "$dnanexus_link": {
+          "id": "file-J5yYj1jJJkKF57P1qyx8GVbf",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      }
+    }, {
+      "chr": "20",
+      "pgen": {
+        "$dnanexus_link": {
+          "id": "file-J5yZG48J54ZBgBpKKzzBzgv5",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      },
+      "psam": {
+        "$dnanexus_link": {
+          "id": "file-J5yZG48J54ZK21bp24yY6pP6",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      },
+      "pvar": {
+        "$dnanexus_link": {
+          "id": "file-J5yZG48J54Z9KF93XpKBkk17",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      }
+    }, {
+      "chr": "21",
+      "pgen": {
+        "$dnanexus_link": {
+          "id": "file-J5yY4J0J8Vy7fV04bXzfx7YQ",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      },
+      "psam": {
+        "$dnanexus_link": {
+          "id": "file-J5yY4J0J8VyKKvyBbp1vQzjQ",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      },
+      "pvar": {
+        "$dnanexus_link": {
+          "id": "file-J5yY4J0J8Vy3kqP09yvj8k89",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      }
+    }, {
+      "chr": "22",
+      "pgen": {
+        "$dnanexus_link": {
+          "id": "file-J5yXyQjJ8qfv2P8KZypZ336K",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      },
+      "psam": {
+        "$dnanexus_link": {
+          "id": "file-J5yXyQjJ8qfXVfP00zy0b2Kz",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      },
+      "pvar": {
+        "$dnanexus_link": {
+          "id": "file-J5yXyQjJ8qfvj1B53p3J55Fy",
+          "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+        }
+      }
+    }]
+  },
+  "stage-common.genotypes___dxfiles": [{
+    "$dnanexus_link": {
+      "id": "file-J5yV5yQJ90Kvp8jPJ8VfYjKq",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5yV5yQJ90KvYbVj66GJq3Z7",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }, {
+    "$dnanexus_link": {
+      "id": "file-J5yV5yQJ90KXXZ2q6FGzgYjv",
+      "project": "project-J0pkqyQJpYQ133JG1p2J1qzv"
+    }
+  }],
+  "stage-common.npcs": "20",
+  "stage-common.covariates": ["AGE", "SEX", "AGE_x_AGE", "AGE_x_SEX"],
+  "stage-common.maf": "0.005"
+}
