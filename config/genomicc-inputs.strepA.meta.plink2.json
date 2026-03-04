@@ -2,6 +2,7 @@
     "gwas.covariates_file": "dx://project-J0pkqyQJpYQ133JG1p2J1qzv:/ukb_merge_outputs/ukb_genomicc.covariates.csv",
     "gwas.loco_pca": "true",
     "gwas.gwas_software": "plink2",
+    "gwas.plink2_vif": "200",
     "gwas.finemap": "false",
     "gwas.covariates": ["AGE", "SEX", "AGE_x_AGE", "AGE_x_SEX"],
     "gwas.groupby": ["SUPERPOPULATION"],

@@ -30,3 +30,35 @@ dx run -y \
     --destination ${output_dir} \
     /workflows/gwas/gwas
 ```
+
+## Debugging a Run With A DNA Nexus Instance
+
+To connect to a DNA Nexus instance, run:
+
+```bash
+instance_type=mem2_ssd1_v2_x8
+dx run \
+    --instance-type $instance_type \
+    -imax_session_length="48h" \
+    -y \
+    --ssh app-cloud_workstation
+```
+
+You can download files via:
+
+```bash
+dx download file_id_1 file_id_2 ... 
+```
+
+And run the container with:
+
+```bash
+docker_tag=optional_fp
+docker run -it --rm -v $PWD:/mnt/data olivierlabayle/wdl-gwas:$docker_tag /bin/bash
+```
+
+Then you can run code as normal, for instance to enter the Julia REPL:
+
+```bash
+julia --project=/opt/PopGen --startup-file=no --sysimage=/opt/PopGen/sysimage.so --threads=auto
+```
