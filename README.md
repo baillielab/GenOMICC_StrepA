@@ -104,7 +104,7 @@ julia --project=. --startup-file=no bin/merge_gsa_hc24.jl results_GSA/ results_H
 ```
 ## Merging EGAD00001004558 with GenOMICC
 
-## Reproducing The GWAS
+## Reproducing the UKB-GenOMICC GWAS
 
 To run the GWAS, we only need the [WDL-GWAS](https://github.com/olivierlabayle/WDL-GWAS) pipeline, make sure you have followed the installation isntructions and run the following:
 
