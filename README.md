@@ -31,6 +31,10 @@ dx run -y \
     /workflows/gwas/gwas
 ```
 
+## Reproducing the AoU GWAS
+
+The WDL-GWAS workflow can also be used on All of Us, to set it up, follow the instructions [here](https://support.workbench.verily.com/docs/guides/workflows/cromwell/). The configuration file used for the GWAS is `config/gwas.aou.config`.
+
 ## Debugging a Run With A DNA Nexus Instance
 
 To connect to a DNA Nexus instance, run:
